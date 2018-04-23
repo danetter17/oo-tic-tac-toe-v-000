@@ -7,13 +7,6 @@ def initialize(play)
   @play=play
 end
 
-def play=(play)
-  @play=play
-end
-
-def play
-  @play
-end
 end
 
 new_game=TicTacToe.new
