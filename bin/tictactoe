@@ -6,7 +6,6 @@ class TicTacToe
 def initialize(play)
   @play=play
 end
-
 end
 
 new_game=TicTacToe.new
