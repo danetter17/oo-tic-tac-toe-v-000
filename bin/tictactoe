@@ -16,5 +16,5 @@ def play
 end
 end
 
-new_game=TicTacToe.new("new_game)
+new_game=TicTacToe.new
 new_game.play
